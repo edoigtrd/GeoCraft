@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "geocraft:scories"
+    }
+  },
+  "result": {
+    "item": "geocraft:scories_block",
+    "count": 1
+  }
+}

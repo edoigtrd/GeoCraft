@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ii ",
+    " / ",
+    " / "
+  ],
+  "key": {
+    "i": {
+      "item": "geocraft:titanium_ingot"
+    },
+    "/": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "geocraft:titanium_hoe",
+    "count": 1
+  }
+}

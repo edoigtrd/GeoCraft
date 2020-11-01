@@ -1,0 +1,37 @@
+modLoader="javafml"
+loaderVersion="[31,)"
+# issueTrackerURL="http://my.issue.tracker/"
+
+[[mods]]
+modId="geocraft"
+version="0.0.2"
+displayName="Geo Craft"
+
+# A URL to query for updates for this mod. See the JSON update specification <here>
+# updateJSONURL="http://myurl.me/"
+
+# A URL for the "homepage" for this mod, displayed in the mod UI
+displayURL="https://www.curseforge.com/minecraft/mc-mods/geo-craft"
+
+# A file name (in the root of the mod JAR) containing a logo for display
+logoFile="logo.png"
+
+credits="Textures and code by Opti \nThanks to FlowArg"
+authors="Opti"
+description='''
+Geologist's mod
+But also random additions mod
+'''
+
+[[dependencies.geocraft]]
+    modId="forge"
+    mandatory=true
+    versionRange="[31,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.geocraft]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.15.2]"
+    ordering="NONE"
+    side="BOTH"

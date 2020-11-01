@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "geocraft:block/geode_sublimer_top",
+    "bottom": "geocraft:block/geode_sublimer_bottom",
+    "side": "geocraft:block/geode_sublimer_side"
+  }
+}

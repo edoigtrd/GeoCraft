@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "geocraft:block/geode_quartz"
+    }
+  }
+}

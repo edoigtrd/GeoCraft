@@ -1,0 +1,26 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "S S",
+    "#M#",
+    " G "
+  ],
+  "key": {
+    "#": {
+      "item": "geocraft:scories_block"
+    },
+    "M": {
+      "item": "minecraft:magma_block"
+    },
+    "G": {
+      "item": "minecraft:golden_axe"
+    },
+    "S": {
+      "item": "geocraft:scories"
+    }
+  },
+  "result": {
+    "item": "geocraft:heater",
+    "count": 1
+  }
+}

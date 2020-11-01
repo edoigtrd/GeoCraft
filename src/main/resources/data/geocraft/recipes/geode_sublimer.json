@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SDS",
+    "#M#",
+    "GGG"
+  ],
+  "key": {
+    "#": {
+      "item": "geocraft:titanium_ingot"
+    },
+    "M": {
+      "item": "minecraft:nether_star"
+    },
+    "G": {
+      "item": "minecraft:obsidian"
+    },
+    "D": {
+      "item": "minecraft:dragon_breath"
+    },
+    "S": {
+      "item": "minecraft:gold_block"
+    }
+  },
+  "result": {
+    "item": "geocraft:geode_sublimer",
+    "count": 1
+  }
+}

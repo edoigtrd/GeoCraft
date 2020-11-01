@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "geocraft:block/raw_slate"
+    }
+  }
+}
